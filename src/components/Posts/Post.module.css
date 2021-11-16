@@ -1,0 +1,22 @@
+.post__content {
+  /* display: flex; */
+  /* justify-content: space-between; */
+  align-items: center;
+  padding: 15px;
+  border: 2px solid purple;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.post {
+  width: 800px;
+}
+
+.post__h {
+  text-align: center;
+}
+
+.post__desc {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
